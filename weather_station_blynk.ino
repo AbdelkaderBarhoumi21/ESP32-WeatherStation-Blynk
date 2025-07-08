@@ -1,7 +1,7 @@
 /* === Blynk IoT 2.0 === */
-#define BLYNK_TEMPLATE_ID        "TMPL2IvU7Y5GX"
-#define BLYNK_TEMPLATE_NAME      "Weather Station"
-#define BLYNK_AUTH_TOKEN         "6FutGNyW5YsIabjl620oOu0bB9mkLbq0"
+#define BLYNK_TEMPLATE_ID        ""
+#define BLYNK_TEMPLATE_NAME      "
+#define BLYNK_AUTH_TOKEN         ""
 
 /* === Librairies === */
 #include <WiFi.h>
@@ -11,8 +11,8 @@
 #include <DHT.h>
 
 /* === Wi-Fi === */
-char ssid[] = "ooredoo_brh";
-char pass[] = "RTX4060--MSI--2025--";
+char ssid[] = "";
+char pass[] = "";
 
 /* === Capteurs === */
 #define LDRPIN       33
